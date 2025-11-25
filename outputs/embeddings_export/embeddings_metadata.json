@@ -1,0 +1,2602 @@
+[
+  {
+    "index": 0,
+    "page": 1,
+    "type": "text",
+    "text_preview": "IN BUILDINGS  सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान  \nरूड़की - 247667, भारत  \nCSIR- Central Building Research Institute   \nRoorkee - 247667, India",
+    "full_text": "IN BUILDINGS  सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान  \nरूड़की - 247667, भारत  \nCSIR- Central Building Research Institute   \nRoorkee - 247667, India",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 1,
+    "page": 2,
+    "type": "text",
+    "text_preview": "\nUse burnt solid clay bricks, solid  \nconcrete blocks, hollow clay tiles or  \nhollow concrete blocks. \nMasonry units should be watered for  \nabout 4 hours before laying. \nMasonry units should have ...",
+    "full_text": "\nUse burnt solid clay bricks, solid  \nconcrete blocks, hollow clay tiles or  \nhollow concrete blocks. \nMasonry units should be watered for  \nabout 4 hours before laying. \nMasonry units should have a minimum \nof 35 kg/cm 2 compressive strength, uniform shape, size and a maximum of  \n20% water absorption. \nUse hard, clean and crushed aggregates  \nthat should be free from any kind of  \nmaterial that could result in  \ndeterioration of concrete. \nUse 20 mm down aggregate in footing,  \nplinth beam, bond beam, tie column  \nand slab. \nDo not use cement which is more than 3  \nmonths old. \nStore cement in a dry and moisture  \nproof building or shelter and it should  \nbe covered with plastic sheets to avoid  \nhardening.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 2,
+    "page": 2,
+    "type": "text",
+    "text_preview": "\nStack cement on a platform, 150-  \n200mmabove the floor level. \nDo not open the cement bags until  \nrequired for usage. \nUse river sand for construction. Do not  \nuse sea/beach sand as it may cont...",
+    "full_text": "\nStack cement on a platform, 150-  \n200mmabove the floor level. \nDo not open the cement bags until  \nrequired for usage. \nUse river sand for construction. Do not  \nuse sea/beach sand as it may contains  \nsalts which could result in corrosion of  \nsteel. \nUse well graded sand and it should be  \nfree from mud or any kind of dirt, silt or  \norganic matter. \nUse mortar in the ratio of 1:3:0.5  \n(cement: sand: water) for 115 mm thick  \nmasonry walls and 1:6:0.5 (cement:  \nsand: water) for 230 mm thick masonry  \nwalls. \nAdequate quantity of water should be  \nadded such that sufficient workability in  \nmortar i s achieved during i ts  \napplication.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 3,
+    "page": 2,
+    "type": "text",
+    "text_preview": "\nUse minimum M20 (1:1.5:3) grade of  \nconcrete in foundation, plinth beam,  \nbond beams, tie columns and slab. \nUse super-plasticizer in concrete mix to  \nachieve adequate workability. \nUse Fe 415 ...",
+    "full_text": "\nUse minimum M20 (1:1.5:3) grade of  \nconcrete in foundation, plinth beam,  \nbond beams, tie columns and slab. \nUse super-plasticizer in concrete mix to  \nachieve adequate workability. \nUse Fe 415 or higher grade of steel as  \nreinforcement. \nDo not use corroded, old or bent bars. \nStore reinforcement bars on a platform  \nto prevent corrosion. \nApply cement slurry over rebar to  \nprotect from corrosion. \nUse potable water for mixing and  \ncuring, which should be free from  \norganic matter, oils, acids, salts or any  \nother substance that could result in  \ndeterioration of concrete or steel.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 4,
+    "page": 2,
+    "type": "text",
+    "text_preview": "Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Mortar (For details refer IS 225...",
+    "full_text": "Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 5,
+    "page": 3,
+    "type": "text",
+    "text_preview": "BRICKS  \nTake 6 random samples of bricks and calculate its average dry weight. Immerse bricks in water for 24 hrs, then again calculate their average  \nweight. The difference in final average weight ...",
+    "full_text": "BRICKS  \nTake 6 random samples of bricks and calculate its average dry weight. Immerse bricks in water for 24 hrs, then again calculate their average  \nweight. The difference in final average weight and initial average weight indicates the amount of water absorbed by the bricks. It should not  \nexceed 20% of average weight of dry bricks. \nClosely observe bricks for uniformity of their shapes, size and colour. Bricks should be rectangular in shape with sharp edges. \nPut a scratch on the brick surface with finger nail. For brick to be hard enough, no impression or mark should be visible on the surface.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 6,
+    "page": 3,
+    "type": "text",
+    "text_preview": "BRICKS       Gently struck two bricks with each other. A good quality brick will not break and will generate a metallic sound.      \n  Break a brick and examine its structure. It should be homogeneo...",
+    "full_text": "BRICKS       Gently struck two bricks with each other. A good quality brick will not break and will generate a metallic sound.      \n  Break a brick and examine its structure. It should be homogeneous, compact and free from holes and lumps. \n     Conduct compressive strength tests on randomly selected brick samples. (Refer IS 3495: (Part 1) – 1992)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 7,
+    "page": 3,
+    "type": "text",
+    "text_preview": "CEMENT  \nOpen the bags to check the presence of lumps. Presence of lumps is the indication that setting has started, and thus that cement shall not be  \nsuitable. \nTake a pinch of cement and rub it ...",
+    "full_text": "CEMENT  \nOpen the bags to check the presence of lumps. Presence of lumps is the indication that setting has started, and thus that cement shall not be  \nsuitable. \nTake a pinch of cement and rub it between fingers. It should give a smooth texture, otherwise if it is rough, it indicates that the cement is  \nadulterated with sand. \nSmell a pinch of cement. If it gives an earthy smell, it indicates that cement is adulterated with clay and silt. \nPut a small quantity of cement in a bucket of water. Cement should sink and must not float on water. \nCement should be uniform in colour. Colour of cement is grey with a light greenish shade.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 8,
+    "page": 3,
+    "type": "text",
+    "text_preview": "SAND  \nTake a transparent glass, half filled with water. Add sand, 1/4 th volume of glass in water and shake vigorously. After a minute, a distinct layer of settled silt and sand will be noticed. Mea...",
+    "full_text": "SAND  \nTake a transparent glass, half filled with water. Add sand, 1/4 th volume of glass in water and shake vigorously. After a minute, a distinct layer of settled silt and sand will be noticed. Measure its depth and calculate percent of silt content, which should be limited to 5%. \nRub a pinch of sand between the fingers. If fingers get stained, it indicates that the sand is adulterated with the earthy matter. \nAdd solution of caustic soda in sand to detect the presence of organic impurities. If the colour of solution changes into brown, it indicates the  \npresence of organic impurities.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 9,
+    "page": 3,
+    "type": "text",
+    "text_preview": "REINFORCEMENT  \nThe bend test should be carried out with bending devices as specified in IS 1599: 1985. Absence of cracks in rebar shall be considered as the  \nevidence that the test piece withstood ...",
+    "full_text": "REINFORCEMENT  \nThe bend test should be carried out with bending devices as specified in IS 1599: 1985. Absence of cracks in rebar shall be considered as the  \nevidence that the test piece withstood the bend test. \nThe tensile strength test and elongation of steel should be carried out with reference to IS 1608: 2005. Tensile strength obtained from the test  \nshould be equal to the strength specified by the manufacturer. \nThe pull-out test should be carried out to determine the bond stress in rebar. The rebar specimen should be placed in testing machine such that  \nthe bar is pulled axially from the cube. The test procedure should be followed and bond stress should be calculated in accordance with IS 2770  \n(Part 1): 1967.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 10,
+    "page": 4,
+    "type": "text",
+    "text_preview": "CONCRETE  \nMix cement, sand, coarse aggregate, water and super plasticizer as per the mix design. \nConcrete mix should be consumed within 30 minutes after preparation. \nDuring casting, concrete sho...",
+    "full_text": "CONCRETE  \nMix cement, sand, coarse aggregate, water and super plasticizer as per the mix design. \nConcrete mix should be consumed within 30 minutes after preparation. \nDuring casting, concrete should be properly mixed and compacted by mechanical means. \nExposed surfaces of casted concrete should be properly cured; either by ponding or by covering with wet hessian cloth for a minimum of 7 days. (For details refer IS 456: 2000, IS 10262: 2009, IS 1199: 1959, IS 2386: 1963, IS 516: 1959)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 11,
+    "page": 4,
+    "type": "text",
+    "text_preview": "MASONRY  \nProvide 10 mm thick mortar in joints of masonry courses. \nMaximum 1.2 m high brickwork should be carried out in one day. \nFill gap between masonry and beam soffits just before plaster. \n...",
+    "full_text": "MASONRY  \nProvide 10 mm thick mortar in joints of masonry courses. \nMaximum 1.2 m high brickwork should be carried out in one day. \nFill gap between masonry and beam soffits just before plaster. \nProvide 8 mm reinforcement bar in 115 mm masonry walls after every fourth course. \nThe joints and edges should be properly formed and excessive mortar from the joints should be neatly removed by a trowel. \nRestrict length/thickness ratio of wall to 20. Otherwise provide pilaster (brick column) to fulfill this requirement. \nMasonry walls should be cured for 7 days. (For details refer IS 3495: 1992, 1077: 1992, IS 2212: 1991, IS 6042: 1969, IS 3012: 1971)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 12,
+    "page": 4,
+    "type": "text",
+    "text_preview": "MASONRY  \nMortar should be prepared using measuring boxes and the mixing of mortar should be done in mortar pan in designed proportions. \nMix cement and sand properly so that it gives uniform color ...",
+    "full_text": "MASONRY  \nMortar should be prepared using measuring boxes and the mixing of mortar should be done in mortar pan in designed proportions. \nMix cement and sand properly so that it gives uniform color and workable consistency. \nFist prepare dry mix of mortar (cement and sand) in adequate quantity and add water in appropriate quantity when required, so that wet  \nmortar mix can be utilized within 30 –45 minutes. \nThe mortar used in masonry should not contain excessive water. (For details refer 2250: 1981 IS, IS 3085: 1965)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 13,
+    "page": 5,
+    "type": "text",
+    "text_preview": "\nThe reinforcement detailing in beams should be provided as shown in the figure. \nLap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.  \nLap leng...",
+    "full_text": "\nThe reinforcement detailing in beams should be provided as shown in the figure. \nLap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.  \nLap length should not be less than the development length. Not more than 50% of the cross-sectional area  \nof bars should be spliced at any section. \nPlace longitudinal bars carefully with adequate concrete cover of 25 mm. \nThe reinforcement detailing in columns shall be provided as shown in the figure. \nPlace longitudinal bars carefully with adequate concrete cover of 40 mm. \nThe laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties  \nat 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 14,
+    "page": 5,
+    "type": "text",
+    "text_preview": "\nThe detailing of reinforcement in beam-column joints at end span shall be as shown in the figure. \nProvide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c...",
+    "full_text": "\nThe detailing of reinforcement in beam-column joints at end span shall be as shown in the figure. \nProvide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c/c. \nMechanical splicing shall be adopted for bars of diameter larger than 32 mm.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 15,
+    "page": 5,
+    "type": "text",
+    "text_preview": "REINFORCEMENT DETAILING  \nThe reinforcement detailing of stirrups should be provided as shown in the figure. \nEnsure that stirrups are properly tied with binding wires. Reinforcement Detailing in RC...",
+    "full_text": "REINFORCEMENT DETAILING  \nThe reinforcement detailing of stirrups should be provided as shown in the figure. \nEnsure that stirrups are properly tied with binding wires. Reinforcement Detailing in RC Beam",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 16,
+    "page": 5,
+    "type": "text",
+    "text_preview": "2D  Stirrup Spacing  \nminimum of D/4,  \n8xdiameterof  \nlongitudinal bar  \nor 100 mm Stirrup Spacing",
+    "full_text": "2D  Stirrup Spacing  \nminimum of D/4,  \n8xdiameterof  \nlongitudinal bar  \nor 100 mm Stirrup Spacing",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 17,
+    "page": 5,
+    "type": "text",
+    "text_preview": "< D/2  Stirrup  \nSpacing < 150 mm Stirrup  \nSpacing",
+    "full_text": "< D/2  Stirrup  \nSpacing < 150 mm Stirrup  \nSpacing",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 18,
+    "page": 5,
+    "type": "text",
+    "text_preview": "< D/2  No Lap Region RC Column No Lap Region \nStirrup Spacing minimum of D/4, 8xdiameter of longitudinal bar or 100 mm RC Beam Approx 60 times the bar diameter d = Diameter of ties Longitudinal  \nBar ...",
+    "full_text": "< D/2  No Lap Region RC Column No Lap Region \nStirrup Spacing minimum of D/4, 8xdiameter of longitudinal bar or 100 mm RC Beam Approx 60 times the bar diameter d = Diameter of ties Longitudinal  \nBar 135° hook \nCross-tie   6d(>65mm) long Lateral Ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Stirrup Detailing Longitudinal Bars (dia=d) Stirrup 135° Hook  \n6d(>65mm) long",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 19,
+    "page": 6,
+    "type": "text",
+    "text_preview": "REINFORCEMENT DETAILING  Reinforcement Detailing in RC Column Approx 60 times the bar  \ndiameter Top  \nReinforcement RC Beam Bottom RC Column Reinforcement Longitudinal  \nReinforcement Approx 60 times...",
+    "full_text": "REINFORCEMENT DETAILING  Reinforcement Detailing in RC Column Approx 60 times the bar  \ndiameter Top  \nReinforcement RC Beam Bottom RC Column Reinforcement Longitudinal  \nReinforcement Approx 60 times the bar diameter At Intermediate Floor End Span At Beam-Column Joint h/4",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 20,
+    "page": 6,
+    "type": "text",
+    "text_preview": "D  h/4 h/6 \nh/6 Lapping of  \nlongitudinal  \nbars in middle  \nhalf of column  \n& not more  \nthan 50% of  \nbars shall be  \nspliced at a  \nsection Spacing of ties not more  \nthan D/4, 6 xdiameter of  \nlo...",
+    "full_text": "D  h/4 h/6 \nh/6 Lapping of  \nlongitudinal  \nbars in middle  \nhalf of column  \n& not more  \nthan 50% of  \nbars shall be  \nspliced at a  \nsection Spacing of ties not more  \nthan D/4, 6 xdiameter of  \nlongitudinal bar or 100 mm Spacing of ties in lap length  \nshall be smaller of D/2 \nor 150mm in 6 (max) Spacing of ties not  \nmore than D/2 Kink by 1 Spacing of ties not  \nmore than D/2 Spacing of ties not more \nthan D/4, 6 xdiameter of  \nlongitudinal bar or 100 mm h At Roof Floor End Span Top Reinforcement Approx 60 times the bar diameter Bottom Reinforcement \nBend Column  \nReinforcement  \ninto Beam Longitudinal  \nReinforcement",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 21,
+    "page": 7,
+    "type": "text",
+    "text_preview": "REINFORCEMENT DETAILING  \nThe reinforcement detailing in slabs shall be provided as shown in the figure below. \nCranks in slabs are not permitted due to poor performance in seismic shaking. \nMinimu...",
+    "full_text": "REINFORCEMENT DETAILING  \nThe reinforcement detailing in slabs shall be provided as shown in the figure below. \nCranks in slabs are not permitted due to poor performance in seismic shaking. \nMinimum slab thickness shall be 100mm. \nGenerally, slab thickness shall be calculated as shorter spam/28 or 100 mm, whichever is higher. \nThe minimum cover to reinforcement shall be not less than 15 mm, nor less than the diameter of bar. One- Way Slab",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 22,
+    "page": 7,
+    "type": "text",
+    "text_preview": "SECTION B-B  Edge  \nBeam No negative reinforcement Bottom Distribution \nBar",
+    "full_text": "SECTION B-B  Edge  \nBeam No negative reinforcement Bottom Distribution \nBar",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 23,
+    "page": 7,
+    "type": "text",
+    "text_preview": "L2  RC Slab Bottom Main Bars Intermediate Beam",
+    "full_text": "L2  RC Slab Bottom Main Bars Intermediate Beam",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 24,
+    "page": 7,
+    "type": "text",
+    "text_preview": "SECTION A-A  Top negative reinforcement over support",
+    "full_text": "SECTION A-A  Top negative reinforcement over support",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 25,
+    "page": 7,
+    "type": "text",
+    "text_preview": "0.1 L1  RC Slab Top negative reinforcement over support",
+    "full_text": "0.1 L1  RC Slab Top negative reinforcement over support",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 26,
+    "page": 7,
+    "type": "text",
+    "text_preview": "0.3 L1  Bottom Main Bar Edge  \nBeam \nBottom Distribution \nBars Intermediate Beam",
+    "full_text": "0.3 L1  Bottom Main Bar Edge  \nBeam \nBottom Distribution \nBars Intermediate Beam",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 27,
+    "page": 7,
+    "type": "text",
+    "text_preview": "(L1  )  Top negative reinforcement  \nover support \nBottom Main Bars \nEdge Beam Bottom Distribution Bars Intermediate Beam Longer Direction (L2) (L2 >2L1) \nTop negative reinforcement  \nover support Edg...",
+    "full_text": "(L1  )  Top negative reinforcement  \nover support \nBottom Main Bars \nEdge Beam Bottom Distribution Bars Intermediate Beam Longer Direction (L2) (L2 >2L1) \nTop negative reinforcement  \nover support Edge  \nBeam (When ratio of longer span to shorter span of slab is greater than 2)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 28,
+    "page": 8,
+    "type": "text",
+    "text_preview": "REINFORCEMENT DETAILING  Two - Way Slab Cantilever Slab from Beam \nRebar Chair in Slab Reinforcement (When ratio of longer span to shorter span of slab is less than 2)",
+    "full_text": "REINFORCEMENT DETAILING  Two - Way Slab Cantilever Slab from Beam \nRebar Chair in Slab Reinforcement (When ratio of longer span to shorter span of slab is less than 2)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 29,
+    "page": 8,
+    "type": "text",
+    "text_preview": "L3  Bottom Distribution Bars Edge Beam \nBottom Main Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate ...",
+    "full_text": "L3  Bottom Distribution Bars Edge Beam \nBottom Main Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate Beam Longer Direction (L2)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 30,
+    "page": 8,
+    "type": "text",
+    "text_preview": "0.3 L1  0.3 L2  \n   0.3 L4  \n0.1 L2",
+    "full_text": "0.3 L1  0.3 L2  \n   0.3 L4  \n0.1 L2",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 31,
+    "page": 8,
+    "type": "text",
+    "text_preview": "0.1 L1  Distribution Bars at Top (Minimum 2 bars) \nTop negative reinforcement over support Edge Beam Bottom Main Bar \nBottom \nDistribution \nBars Intermediate \nBeam RC Slab 0.3L1 \n0.3L3 L2 \nL4 0.3L2 \n0...",
+    "full_text": "0.1 L1  Distribution Bars at Top (Minimum 2 bars) \nTop negative reinforcement over support Edge Beam Bottom Main Bar \nBottom \nDistribution \nBars Intermediate \nBeam RC Slab 0.3L1 \n0.3L3 L2 \nL4 0.3L2 \n0.3L4",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 32,
+    "page": 8,
+    "type": "text",
+    "text_preview": "SECTION D-D  RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge  \nBeam \nBottom  \nDistribution Bar \nBottom Main Bars Distribution Bars at Top (Minimum 2 bars)",
+    "full_text": "SECTION D-D  RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge  \nBeam \nBottom  \nDistribution Bar \nBottom Main Bars Distribution Bars at Top (Minimum 2 bars)",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 33,
+    "page": 8,
+    "type": "text",
+    "text_preview": "L  L/7 \nMinimum 75 mm RC Cantilever Slab Top Reinforcement Approx 60 times the \nbar diameter RC Beam Distribution Reinforcement",
+    "full_text": "L  L/7 \nMinimum 75 mm RC Cantilever Slab Top Reinforcement Approx 60 times the \nbar diameter RC Beam Distribution Reinforcement",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 34,
+    "page": 8,
+    "type": "text",
+    "text_preview": "L/3  Rebar Chair RC Slab Top Reinforcement 10 mm  bar \nBottom Reinforcement t-70mm 100mm t",
+    "full_text": "L/3  Rebar Chair RC Slab Top Reinforcement 10 mm  bar \nBottom Reinforcement t-70mm 100mm t",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 35,
+    "page": 9,
+    "type": "text",
+    "text_preview": "PLANNING ASPECTS  Good Practice \nBad Practice Building Shape Shape should be regular. \nAvoid L, U, Y etc. Shape buildings. \nIf unavoidable, give separation gap to form regular shape. Symmetrical Wa...",
+    "full_text": "PLANNING ASPECTS  Good Practice \nBad Practice Building Shape Shape should be regular. \nAvoid L, U, Y etc. Shape buildings. \nIf unavoidable, give separation gap to form regular shape. Symmetrical Walls Provide more-or-less symmetrical walls in both the directions of the plan. Vertical Continuity Walls should be continuous in elevation upto the foundation. Plan Dimensions Length to width ratio of the plan should be less than  4. Masonry Bond Flemish bond is preferred as compared to english or any other bond. Wall Opening Proportion Restrict upto 40% of wall surface for openings. Openings shall be preferably be in mid span, away",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 36,
+    "page": 9,
+    "type": "text",
+    "text_preview": "PLANNING ASPECTS  from corners.",
+    "full_text": "PLANNING ASPECTS  from corners.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 37,
+    "page": 10,
+    "type": "text",
+    "text_preview": "WHY CONFINED MASONRY  Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built  \nusing locally availa...",
+    "full_text": "WHY CONFINED MASONRY  Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built  \nusing locally available construction materials Why Confined  \nMasonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance, \nif constructed properly Typical Confined Masonry Building",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 38,
+    "page": 11,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 1",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 1",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 39,
+    "page": 11,
+    "type": "text",
+    "text_preview": "PCC  Ground Lvl. Excavate upto adequate foundation depth/width along the walls of the  \nbuilding and lay 100 mm thick PCC as levelling course.",
+    "full_text": "PCC  Ground Lvl. Excavate upto adequate foundation depth/width along the walls of the  \nbuilding and lay 100 mm thick PCC as levelling course.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 40,
+    "page": 12,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 2 Reinforcement  \nfor Tie-Column Ground Lvl. PCC \nFooting Cast footing beneath the walls and erect tie-columns r...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 2 Reinforcement  \nfor Tie-Column Ground Lvl. PCC \nFooting Cast footing beneath the walls and erect tie-columns reinforcement as per  \nlayout. Provide tie-columns at every corner of room and wall intersection. Limit  \nmaximum spacing of tie-column to 4.2 m. Provide reinforcement cage for tie-  \ncolumns above the roof level.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 41,
+    "page": 13,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 3 Construct plinth masonry wall upto the plinth level leaving apart the column  \nspaces with 25 mm groove at wal...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 3 Construct plinth masonry wall upto the plinth level leaving apart the column  \nspaces with 25 mm groove at wall ends. Alternatively, follow arrangement as  \ngiven below. 400mm This will ensure better bond between RC Tie-column and masonry. 25mm 8 Connectors or Dowels < 400mm Reinforcement  \nfor Tie-Column Masonry Foundation Wall PCC \nFooting Plinth Lvl.  \nGround Lvl.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 42,
+    "page": 14,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 4 Reinforcement  \nfor Tie-Column Masonry Foundation Wall",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 4 Reinforcement  \nfor Tie-Column Masonry Foundation Wall",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 43,
+    "page": 14,
+    "type": "text",
+    "text_preview": "PCC  Footing Formwork Plinth Lvl. Ground Lvl. Upon constructing maximum 1.2 m wall height, provide formwork for tie-  \ncolumns upto the plinth level.",
+    "full_text": "PCC  Footing Formwork Plinth Lvl. Ground Lvl. Upon constructing maximum 1.2 m wall height, provide formwork for tie-  \ncolumns upto the plinth level.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 44,
+    "page": 15,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 5 Cast tie-columns from foundation level upto the plinth level along with the  \nplinth beam, carry out earth fil...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 5 Cast tie-columns from foundation level upto the plinth level along with the  \nplinth beam, carry out earth fill with maximum 15% moisture content in a layer  \nof 300mm adequately compacted, upto plinth level. Reinforcement  \nfor Tie-Column Masonry Foundation Wall",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 45,
+    "page": 15,
+    "type": "text",
+    "text_preview": "PCC  Footing Plinth Beam Plinth Lvl. Ground Lvl. Additional  \nReinforcement  \naround opening",
+    "full_text": "PCC  Footing Plinth Beam Plinth Lvl. Ground Lvl. Additional  \nReinforcement  \naround opening",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 46,
+    "page": 16,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 6 Reinforcement  \nfor Tie-Column Sill Masonry Wall Sill Lvl. Plinth Lvl. Ground Lvl. Plinth  \nMasonry \nAdditiona...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 6 Reinforcement  \nfor Tie-Column Sill Masonry Wall Sill Lvl. Plinth Lvl. Ground Lvl. Plinth  \nMasonry \nAdditional  \nReinforcement  \naround Opening Plinth Beam Construct sill masonry wall above plinth level, leaving openings for doors, as  \nper architectural layout. Additional reinforcement detail, as shown in figure  \nshall be provided around such openings.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 47,
+    "page": 17,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 7 Reinforcement for  \nTie-Column Masonry Wall Additional  \nReinforcement  \naround Opening \nFormwork Plinth  \nMas...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 7 Reinforcement for  \nTie-Column Masonry Wall Additional  \nReinforcement  \naround Opening \nFormwork Plinth  \nMasonry Sill Lvl. Plinth Lvl. Ground Lvl. Plinth Beam Prepare formwork for tie-columns upto the sill level, as shown.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 48,
+    "page": 18,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for 8 Tie-Column Sill Band Additional  \nReinforcement  \naround Opening Masonry Wall Tie-Column Sil...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for 8 Tie-Column Sill Band Additional  \nReinforcement  \naround Opening Masonry Wall Tie-Column Sill Lvl. Plinth Lvl.  \nGround Lvl. Plinth Beam Sill Masonry Plinth  \nMasonry Cast tie-columns from plinth level upto the sill  \nlevel. Also cast bond beam at sill level, if any.  \nProvide vertical notch in green concrete of tie-  \ncolumn, as shown.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 49,
+    "page": 19,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 9 Masonry Wall Plinth  \nMasonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for  ...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 9 Masonry Wall Plinth  \nMasonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for  \nTie-Column Additional  \nReinforcement  \naround Opening Tie- Column 1.2 m Sill Lvl. Plinth Lvl. Ground Lvl. Plinth Beam Sill Masonry Sill Band",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 50,
+    "page": 20,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 10 Reinforcement for  \nTie-Column Sill Masonry \nPlinth Beam Plinth  \nMasonry Masonry Wall Formwork 1.2 m Sill Lv...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 10 Reinforcement for  \nTie-Column Sill Masonry \nPlinth Beam Plinth  \nMasonry Masonry Wall Formwork 1.2 m Sill Lvl. Plinth Lvl. Ground Lvl. Sill Band Additional  \nReinforcement  \naround Opening Provide formwork for tie-column above sill level and cast the concrete. Do not  \nforget to provide notch in tie-column concrete in green state.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 51,
+    "page": 21,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 11 Reinforcement for  \nTie-Column Additional  \nReinforcement  \naround Opening Sill Masonry \nPlinth Beam Plinth  ...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 11 Reinforcement for  \nTie-Column Additional  \nReinforcement  \naround Opening Sill Masonry \nPlinth Beam Plinth  \nMasonry Masonry Wall Tie-Column Lintel Lvl. Sill Lvl. Plinth Lvl. Ground Lvl. Sill Band Further construct masonry walls upto the lintel level.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 52,
+    "page": 22,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 12 Reinforcement for \nTie-Column Additional  \nReinforcement  \naround Opening Masonry Wall Sill Masonry \nPlinth B...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 12 Reinforcement for \nTie-Column Additional  \nReinforcement  \naround Opening Masonry Wall Sill Masonry \nPlinth Beam Sill Band \nPlinth  \nMasonry Formwork Lintel Lvl. Sill Lvl. Plinth Lvl. Ground Lvl. Provide formwork for tie-columns upto the lintel level. Cast concrete in tie-  \ncolumn.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 53,
+    "page": 23,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 13 Reinforcement for  \nTie-Column Additional  \nReinforcement  \naround Opening Masonry Wall Sill Masonry \nPlinth ...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 13 Reinforcement for  \nTie-Column Additional  \nReinforcement  \naround Opening Masonry Wall Sill Masonry \nPlinth Beam Tie-Column Sill Band \nPlinth Masonry Sill Lvl. Plinth Lvl. Ground Lvl. Lintel Lvl. Bond Beam Cast bond-beam on walls at one level. Ensure the \nreinforcement of bond beam passes through tie-  \ncolumn reinforcement. Provide additional  \nreinforcement in bond-beam over openings.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 54,
+    "page": 24,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for \nTie-Column \nSpandrel  \nMasonry Tie-Column Plinth  \nMasonry Sill Lvl. Plinth Lvl.  \n Ground Lv...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for \nTie-Column \nSpandrel  \nMasonry Tie-Column Plinth  \nMasonry Sill Lvl. Plinth Lvl.  \n Ground Lvl. Plinth Beam Sill Masonry Lintel Lvl. Sill Band Confinement around  \nOpening 14 Roof Lvl. Bond Beam Construct spandrel masonry walls upto the slab level.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 55,
+    "page": 25,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 15 Provide formwork for tie-columns between bond-beam to slab level and   cast \nconcrete in tie-column. Bend the...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 15 Provide formwork for tie-columns between bond-beam to slab level and   cast \nconcrete in tie-column. Bend the tie-column longitudinal reinforcement into  \nslab, if tie-columns are to be terminated . Plinth Beam Sill Band Confinement around  \nOpening Sill Masonry Sill Lvl. Plinth Lvl. Ground Lvl. Formwork Roof Lvl. Lintel Lvl. Spandrel  \nMasonry Plinth  \nMasonry Bond Beam",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 56,
+    "page": 26,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for \nTie-Column \nSpandrel  \nMasonry Sill Masonry \nPlinth Beam Tie-Column Plinth  \nMasonry Sill Lvl...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for \nTie-Column \nSpandrel  \nMasonry Sill Masonry \nPlinth Beam Tie-Column Plinth  \nMasonry Sill Lvl. Plinth Lvl.  \n Ground Lvl. Lintel Lvl. 16 Roof Lvl. Sill Band Confinement around  \nOpening Bond Beam Also cast confinement around openings upto the slab level. Bend the  \nlongitudinal reinforcement of tie-columns into the roof slab.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 57,
+    "page": 27,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 17 Slab \nSpandrel  \nMasonry Sill Masonry \nPlinth Beam Plinth  \nMasonry Lintel Lvl. Tie-Column Sill Lvl. Plinth L...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 17 Slab \nSpandrel  \nMasonry Sill Masonry \nPlinth Beam Plinth  \nMasonry Lintel Lvl. Tie-Column Sill Lvl. Plinth Lvl. Confinement around  \nOpening Roof Lvl. Sill Band Bond Beam Cast RC slab as roof or floor. Note due to RC slab resting over spandrel masonry,  \nno bond beam is required.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 58,
+    "page": 28,
+    "type": "text",
+    "text_preview": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 18 In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable  \nend and spandrel masonry,...",
+    "full_text": "CONSTRUCTION METHODOLOGY  (Cost Effective, Seismic Resistant Confined Masonry Building) 18 In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable  \nend and spandrel masonry, bond beam at roof level is to be provided. Heaped Roof Spandrel  \nMasonry Sill Masonry Tie-Column Plinth  \nMasonry Sill Lvl. Plinth Lvl. Ground Lvl. Lintel Lvl. Confinement around  \nOpening Roof Lvl. Sill Band Bond Beam Plinth Beam",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 59,
+    "page": 29,
+    "type": "text",
+    "text_preview": "MASONRY WORK  Description \nSatisfactory/ Unsatisfactory Remarks Curing of masonry units. Distribution of masonry courses as per the height to be achieved  \nfor next level. Mortar mix as specified (1:3...",
+    "full_text": "MASONRY WORK  Description \nSatisfactory/ Unsatisfactory Remarks Curing of masonry units. Distribution of masonry courses as per the height to be achieved  \nfor next level. Mortar mix as specified (1:3 for 115 mm thick walls and 1:6 for  \n230 mm thick walls). Joints thickness (not more than 12 mm). Vertical profile and flatness of wall. Reinforcement/Dowels in place, as per the specification (8 mm  \nreinforcement bar after every 4 th course). Joints even and racked. Door/window openings as per drawing. Lintel beams provided as per drawing. Block work done in layers not exceeding 1.2 m. Unwanted particles are removed.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 60,
+    "page": 29,
+    "type": "text",
+    "text_preview": "MASONRY WORK  Masonry date marked after end of day’s work (for 7 days curing).",
+    "full_text": "MASONRY WORK  Masonry date marked after end of day’s work (for 7 days curing).",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 61,
+    "page": 30,
+    "type": "text",
+    "text_preview": "PLASTER  Description \nSatisfactory/ Unsatisfactory Remarks Double Scaffolding for plastering wall Wetting masonry surface before plastering Mortar mix as specified (1:3 for 115 mm thick walls and 1:6 ...",
+    "full_text": "PLASTER  Description \nSatisfactory/ Unsatisfactory Remarks Double Scaffolding for plastering wall Wetting masonry surface before plastering Mortar mix as specified (1:3 for 115 mm thick walls and 1:6 for  \n230 mm thick walls) All holes and gaps are properly filled Under Coat : Plaster to be finished to a true and plumb surface  \nand the surface shall be left rough and furrowed 2 mm deep Finishing Coat : Check final finish & grooves as per drawing Finished plaster has even surface and proper degree of  \nsmoothness Check work visually after completion for groove lines, joints,  \nand sharpness of corners Mark the date after completion to have control over curing. The  \nplaster to be kept wet for a period of 7 days",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 62,
+    "page": 30,
+    "type": "text",
+    "text_preview": "PLASTER  Cleanliness and unwanted particles cleared away.",
+    "full_text": "PLASTER  Cleanliness and unwanted particles cleared away.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 63,
+    "page": 31,
+    "type": "text",
+    "text_preview": "ROOFING WORK  Description \nSatisfactory/ Unsatisfactory Remarks Unwanted particles, dust, foreign material or any deposits of  \ncontaminants are removed. Required slope maintained. Diameter of rainwat...",
+    "full_text": "ROOFING WORK  Description \nSatisfactory/ Unsatisfactory Remarks Unwanted particles, dust, foreign material or any deposits of  \ncontaminants are removed. Required slope maintained. Diameter of rainwater pipe is more than 80 mm. Concrete is filled in the gap between hole and pipe. Anchor rods are placed to hold pipes in position. Conformity of thermal insulation and water proofing materials  \nto relevant IS codes and contract specifications. The sides of khurras and sides of outlet are rendered, rounded  \nand top structure of khurras as is lower than level of adjoining  \nroof surface. The exposed surface of the gola is plastered with cement mortar  \nor water proofing treatment as specified in contract.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 64,
+    "page": 31,
+    "type": "text",
+    "text_preview": "ROOFING WORK  The finished surface is cured at least for 7 days.",
+    "full_text": "ROOFING WORK  The finished surface is cured at least for 7 days.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 65,
+    "page": 32,
+    "type": "text",
+    "text_preview": "FLOORING  Description \nSatisfactory/ Unsatisfactory Remarks Type, size, colour, quality etc. of tile/marble as per the  \nspecifications. Free from damage, scratches, cracks, chips & bubbles. Adhesive/...",
+    "full_text": "FLOORING  Description \nSatisfactory/ Unsatisfactory Remarks Type, size, colour, quality etc. of tile/marble as per the  \nspecifications. Free from damage, scratches, cracks, chips & bubbles. Adhesive/ cement mix is proper \nBedding layer of average thickness 20 mm provided with  \nminimum thickness at any place not less than 12 mm. Prepared surface is clean and free from loose materials. Layout/ alignment is proper with levels marked for proper slope. Machine is used or cutting marble/ tiles for uniformity and  \nedges are even and at right angle. Proper finishing around drains, switches & fittings is done.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.9999999403953552,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 66,
+    "page": 32,
+    "type": "text",
+    "text_preview": "FLOORING  Regular & continuous joints with neat appearance. Tiles bedded & pointed in grout. In tiling work, grey cement slurry of honey like consistency is \nspread at the rate of 3.3 kg of cement /sq...",
+    "full_text": "FLOORING  Regular & continuous joints with neat appearance. Tiles bedded & pointed in grout. In tiling work, grey cement slurry of honey like consistency is \nspread at the rate of 3.3 kg of cement /sqm. \nIn tiling work, variation of individual dimension from average  \nvalue of length/breadth not to exceed ± 0.5 mm and tolerance in  \nthickness ± 0.4 mm.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 67,
+    "page": 33,
+    "type": "text",
+    "text_preview": "WATER PROOFING  Description \nSatisfactory/ Unsatisfactory Remarks Existing surface is free from foreign particles, dust, organic  \nmatter etc. Sprinkling of water to make the surface saturated wet. \nF...",
+    "full_text": "WATER PROOFING  Description \nSatisfactory/ Unsatisfactory Remarks Existing surface is free from foreign particles, dust, organic  \nmatter etc. Sprinkling of water to make the surface saturated wet. \nFirst coat of tapecrete slurry (1 P-151 :2 cement) as per  \nmanufacturer’s specification. \nAdditional coat of tapecrete paste (1 P-151:2 cement:5 Silica  \nsand) at corner junction, as per manufacturer’s specification. Second coat of tapecrete slurry (1 P-151 :2 cement) as per  \nmanufacturer’s specification. \nThird coat of tapecrete slurry (1 P-151 :2 cement) as per  \nmanufacturer’s specification. The time gap between two subsequent coat be between 2-4  \nhrs. Thickness of all the three coats becomes 0.50mm.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0000001192092896,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 68,
+    "page": 33,
+    "type": "text",
+    "text_preview": "WATER PROOFING  Finally, after 48 hrs., 12mm thick 1:4 protection plaster is done. Check, if all the pipe periphery are sealed with mortar. \nCheck the result of hydro test and ensure that the record o...",
+    "full_text": "WATER PROOFING  Finally, after 48 hrs., 12mm thick 1:4 protection plaster is done. Check, if all the pipe periphery are sealed with mortar. \nCheck the result of hydro test and ensure that the record of  \nhydro test are being maintained in proper format. Ensure that the filling in sunken portion is carried out very  \ncarefully.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 69,
+    "page": 34,
+    "type": "text",
+    "text_preview": "PAINTING WORK  Description \nSatisfactory/ Unsatisfactory Remarks Scaffolding (if necessary) to be on double supports, but clear of  \nall the walls. Pieces of old gunny bags tied on the top of ladders ...",
+    "full_text": "PAINTING WORK  Description \nSatisfactory/ Unsatisfactory Remarks Scaffolding (if necessary) to be on double supports, but clear of  \nall the walls. Pieces of old gunny bags tied on the top of ladders (if used) &  \nlegs of scaffolding. Surface to be painted is even and free from any kind of dirt. For painting of ceiling, proper stage scaffolding is provided. Paint is of approved colour, brand and company. At a time, only required and sufficient quantity of paint is  \nprepared. The number of coats applied meet the specifications. 1 st coat / Sealer coat. 2nd coat / Mid coat. 3rd coat / Finish coat. After the final coat, the surface presents a uniform appearance  \nand desired finish.",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 70,
+    "page": 35,
+    "type": "text",
+    "text_preview": "WOOD WORK  Description \nSatisfactory/ Unsatisfactory Remarks Panels are of approved quality, thickness and type. Moisture content of timber is within specified limits. Test for moisture content on eac...",
+    "full_text": "WOOD WORK  Description \nSatisfactory/ Unsatisfactory Remarks Panels are of approved quality, thickness and type. Moisture content of timber is within specified limits. Test for moisture content on each lot is carried out. Wood preservative paint is applied wherever woodwork is in  \ncontact with the brick masonry or concrete. Flush door shutters from approved vendors and of correct  \ndimensions. All wood work carried out as per the dimensions given in the  \ndrawings. Timber is always sawn in the direction of the grains. Rebates, rounding or moulding is done before the members are  \njointed into frames",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 71,
+    "page": 36,
+    "type": "text",
+    "text_preview": "Authored by: \nDr. Ajay Chourasia  \nMr. Shubham Singhal Technical Support:  \nMr. Sugam Kumar  \nMr.  Jalaj Parashar \nCSIR- Central Building Research Institute  \nRoorkee - 247667, India COPYRIGHT © 2017 ...",
+    "full_text": "Authored by: \nDr. Ajay Chourasia  \nMr. Shubham Singhal Technical Support:  \nMr. Sugam Kumar  \nMr.  Jalaj Parashar \nCSIR- Central Building Research Institute  \nRoorkee - 247667, India COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due  \nacknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in. For details contact:  \nDirector \nCSIR- Central Building Research Institute \nRoorkee - 247667 \nPh. \n: +91-1332-272243 Fax \n: +91-1332-272272, 272543",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 72,
+    "page": 36,
+    "type": "text",
+    "text_preview": "E-mail : director@cbri.res.in  \nWebsite : http://www.cbri.res.in",
+    "full_text": "E-mail : director@cbri.res.in  \nWebsite : http://www.cbri.res.in",
+    "confidence": 1.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 1.0,
+    "image_embedding_norm": 0.0
+  },
+  {
+    "index": 73,
+    "page": 1,
+    "type": "image",
+    "text_preview": "CSIR- CBRI TIPS FOR GOOD CONSTRUCTION PRACTICES सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "full_text": "CSIR- CBRI TIPS FOR GOOD CONSTRUCTION PRACTICES सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 74,
+    "page": 1,
+    "type": "image",
+    "text_preview": "सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "full_text": "सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.10505874454975128,
+    "image_embedding_norm": 0.9944660663604736
+  },
+  {
+    "index": 75,
+    "page": 1,
+    "type": "image",
+    "text_preview": "IN BUILDINGS सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "full_text": "IN BUILDINGS सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08514098823070526,
+    "image_embedding_norm": 0.9963687658309937
+  },
+  {
+    "index": 76,
+    "page": 1,
+    "type": "image",
+    "text_preview": "GOOD CONSTRUCTION PRACTICES सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "full_text": "GOOD CONSTRUCTION PRACTICES सी.एस.आई.आर.- केंद्रीय भवन अनुसंधान संस्थान    रूड़की - 247667, भारत   CSIR- Central Building Research Institute    Roorkee - 247667, India",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.10985974967479706,
+    "image_embedding_norm": 0.9939471483230591
+  },
+  {
+    "index": 77,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic ma...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter. Sand (For details refer IS 2116:1980) Water (For details refer IS 3025:1987) CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 78,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability. Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Mortar (For details refer IS 2250:1981) Concrete CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08420246094465256,
+    "image_embedding_norm": 0.9964486956596375
+  },
+  {
+    "index": 79,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion. Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08924549072980881,
+    "image_embedding_norm": 0.9960096478462219
+  },
+  {
+    "index": 80,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08505745232105255,
+    "image_embedding_norm": 0.9963760375976562
+  },
+  {
+    "index": 81,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987) CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08920487761497498,
+    "image_embedding_norm": 0.9960132837295532
+  },
+  {
+    "index": 82,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Masonry Units (For details refer IS 3495:1992) Aggregates Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987) CONSTRUCTION MATERIALS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09133189916610718,
+    "image_embedding_norm": 0.9958205819129944
+  },
+  {
+    "index": 83,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Masonry Units (For details refer IS 3495:1992) Aggregates (For details refer IS 383:1970) Cement Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08708984404802322,
+    "image_embedding_norm": 0.996200442314148
+  },
+  {
+    "index": 84,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Aggregates (For details refer IS 383:1970) Cement (For details refer IS 1489:1991) Sand Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.0891755148768425,
+    "image_embedding_norm": 0.9960159063339233
+  },
+  {
+    "index": 85,
+    "page": 2,
+    "type": "image",
+    "text_preview": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have ...",
+    "full_text": " Use burnt solid clay bricks, solid   concrete blocks, hollow clay tiles or   hollow concrete blocks.  Masonry units should be watered for   about 4 hours before laying.  Masonry units should have a minimum   of 35 kg/cm 2  compressive strength, uniform shape, size and a maximum of   20% water absorption.  Use hard, clean and crushed aggregates   that should be free from any kind of   material that could result in   deterioration of concrete.  Use 20 mm down aggregate in footing,   plinth beam, bond beam, tie column   and slab.  Do not use cement which is more than 3   months old.  Store cement in a dry and moisture   proof building or shelter and it should   be covered with plastic sheets to avoid   hardening.  Stack cement on a platform, 150-   200mmabove the floor level.  Do not open the cement bags until   required for usage.  Use river sand for construction. Do not   use sea/beach sand as it may contains   salts which could result in corrosion of   steel.  Use well graded sand and it should be   free from mud or any kind of dirt, silt or   organic matter.  Use mortar in the ratio of 1:3:0.5   (cement: sand: water) for 115 mm thick   masonry walls and 1:6:0.5 (cement:   sand: water) for 230 mm thick masonry   walls.  Adequate quantity of water should be   added such that sufficient workability in   mortar i s achieved during i ts   application.  Use minimum M20 (1:1.5:3) grade of   concrete in foundation, plinth beam,   bond beams, tie columns and slab.  Use super-plasticizer in concrete mix to   achieve adequate workability.  Use Fe 415 or higher grade of steel as   reinforcement.  Do not use corroded, old or bent bars.  Store reinforcement bars on a platform   to prevent corrosion.  Apply cement slurry over rebar to   protect from corrosion.  Use potable water for mixing and   curing, which should be free from   organic matter, oils, acids, salts or any   other substance that could result in   deterioration of concrete or steel. Cement (For details refer IS 1489:1991) Sand (For details refer IS 2116:1980) Mortar (For details refer IS 2250:1981) Concrete (For details refer IS 1199:1959) Reinforcement Bars (For details refer IS 1786:2008) Water (For details refer IS 3025:1987)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08641133457422256,
+    "image_embedding_norm": 0.9962595701217651
+  },
+  {
+    "index": 86,
+    "page": 3,
+    "type": "image",
+    "text_preview": "ON- SITE MATERIAL QUALITY TESTS BRICKS  The tensile strength test and elongation of steel should be carried out with reference to IS 1608: 2005. Tensile strength obtained from the test   should be eq...",
+    "full_text": "ON- SITE MATERIAL QUALITY TESTS BRICKS  The tensile strength test and elongation of steel should be carried out with reference to IS 1608: 2005. Tensile strength obtained from the test   should be equal to the strength specified by the manufacturer.  The pull-out test should be carried out to determine the bond stress in rebar. The rebar specimen should be placed in testing machine such that   the bar is pulled axially from the cube. The test procedure should be followed and bond stress should be calculated in accordance with IS 2770   (Part 1): 1967.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 87,
+    "page": 3,
+    "type": "image",
+    "text_preview": "ON- SITE MATERIAL QUALITY TESTS  Take 6 random samples of bricks and calculate its average dry weight. Immerse bricks in water for 24 hrs, then again calculate their average   weight. The difference ...",
+    "full_text": "ON- SITE MATERIAL QUALITY TESTS  Take 6 random samples of bricks and calculate its average dry weight. Immerse bricks in water for 24 hrs, then again calculate their average   weight. The difference in final average weight and initial average weight indicates the amount of water absorbed by the bricks. It should not   exceed 20% of average weight of dry bricks.  Closely observe bricks for uniformity of their shapes, size and colour. Bricks should be rectangular in shape with sharp edges.  Put a scratch on the brick surface with finger nail. For brick to be hard enough, no impression or mark should be visible on the surface.  Open the bags to check the presence of lumps. Presence of lumps is the indication that setting has started, and thus that cement shall not be   suitable.  Take a pinch of cement and rub it between fingers. It should give a smooth texture, otherwise if it is rough, it indicates that the cement is   adulterated with sand. th  volume of glass in water and shake vigorously. After a minute, a distinct layer of settled silt and sand will be noticed. Measure its depth and calculate percent of silt content, which should be limited to 5%.  Rub a pinch of sand between the fingers. If fingers get stained, it indicates that the sand is adulterated with the earthy matter.  Add solution of caustic soda in sand to detect the presence of organic impurities. If the colour of solution changes into brown, it indicates the   presence of organic impurities. REINFORCEMENT  The bend test should be carried out with bending devices as specified in IS 1599: 1985. Absence of cracks in rebar shall be considered as the   evidence that the test piece withstood the bend test.  The tensile strength test and elongation of steel should be carried out with reference to IS 1608: 2005. Tensile strength obtained from the test   should be equal to the strength specified by the manufacturer.  The pull-out test should be carried out to determine the bond stress in rebar. The rebar specimen should be placed in testing machine such that   the bar is pulled axially from the cube. The test procedure should be followed and bond stress should be calculated in accordance with IS 2770   (Part 1): 1967.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09924245625734329,
+    "image_embedding_norm": 0.9950632452964783
+  },
+  {
+    "index": 88,
+    "page": 4,
+    "type": "image",
+    "text_preview": "CONSTRUCTION PRACTICES CONCRETE      The mortar used in masonry should not contain excessive water. (For details refer 2250: 1981 IS, IS 3085: 1965)",
+    "full_text": "CONSTRUCTION PRACTICES CONCRETE      The mortar used in masonry should not contain excessive water. (For details refer 2250: 1981 IS, IS 3085: 1965)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 89,
+    "page": 5,
+    "type": "image",
+    "text_preview": " Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spa...",
+    "full_text": " Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.  The detailing of reinforcement in beam-column joints at end span shall be as shown in the figure.  Provide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c/c.  Mechanical splicing shall be adopted for bars of diameter larger than 32 mm. REINFORCEMENT DETAILING  The reinforcement detailing of stirrups should be provided as shown in the figure. Approx 60 times the bar diameter d = Diameter of ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Longitudinal Bars (dia=d) Stirrup 135° Hook   6d(>65mm) long STIRRUPS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 90,
+    "page": 5,
+    "type": "image",
+    "text_preview": " The reinforcement detailing in columns shall be provided as shown in the figure.  Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement o...",
+    "full_text": " The reinforcement detailing in columns shall be provided as shown in the figure.  Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.  The detailing of reinforcement in beam-column joints at end span shall be as shown in the figure.  Provide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c/c.  Mechanical splicing shall be adopted for bars of diameter larger than 32 mm. Reinforcement Detailing in RC Beam d = Diameter of ties Longitudinal   Bar 135° hook   Cross-tie   6d(>65mm) long Lateral Ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Stirrup Detailing Longitudinal Bars (dia=d) Stirrup 135° Hook   6d(>65mm) long COLUMN",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09916777163743973,
+    "image_embedding_norm": 0.9950706958770752
+  },
+  {
+    "index": 91,
+    "page": 5,
+    "type": "image",
+    "text_preview": " The reinforcement detailing in beams should be provided as shown in the figure.  Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap leng...",
+    "full_text": " The reinforcement detailing in beams should be provided as shown in the figure.  Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap length should not be less than the development length. Not more than 50% of the cross-sectional area   of bars should be spliced at any section.  Place longitudinal bars carefully with adequate concrete cover of 25 mm.  The reinforcement detailing in columns shall be provided as shown in the figure.  Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.  The detailing of reinforcement in beam-column joints at end span shall be as shown in the figure.  Ensure that stirrups are properly tied with binding wires. Reinforcement Detailing in RC Beam 2D L D Lap(50d) at L/3 to L/4 2D Stirrup Spacing   minimum of D/4,   8xdiameter of   longitudinal bar   or 100 mm Stirrup Spacing < D/2 Stirrup   Spacing < 150 mm Stirrup   Spacing < D/2 No Lap Region RC Column No Lap Region   Stirrup Spacing minimum of D/4, 8xdiameter of longitudinal bar or 100 mm RC Beam Approx 60 times the bar diameter d = Diameter of ties Longitudinal   Bar 135° hook   Cross-tie   6d(>65mm) long Lateral Ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Stirrup Detailing Longitudinal Bars (dia=d) Stirrup 135° Hook   6d(>65mm) long BEAM COLUMN STIRRUPS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08484740555286407,
+    "image_embedding_norm": 0.9963938593864441
+  },
+  {
+    "index": 92,
+    "page": 5,
+    "type": "image",
+    "text_preview": " Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap length should not be less than the development length. Not more than 50% of the cross-...",
+    "full_text": " Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap length should not be less than the development length. Not more than 50% of the cross-sectional area   of bars should be spliced at any section.  The reinforcement detailing in columns shall be provided as shown in the figure.  Place longitudinal bars carefully with adequate concrete cover of 40 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.  The detailing of reinforcement in beam-column joints at end span shall be as shown in the figure.  Provide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c/c.  Mechanical splicing shall be adopted for bars of diameter larger than 32 mm. REINFORCEMENT DETAILING Reinforcement Detailing in RC Beam 2D L D Lap(50d) at L/3 to L/4 2D Stirrup Spacing   minimum of D/4,   8xdiameter of   longitudinal bar   or 100 mm Stirrup Spacing < D/2 Stirrup   Spacing < 150 mm Stirrup   Spacing < D/2 No Lap Region RC Column No Lap Region   Stirrup Spacing minimum of D/4, 8xdiameter of longitudinal bar or 100 mm RC Beam Approx 60 times the bar diameter d = Diameter of ties Longitudinal   Bar 135° hook   Cross-tie   6d(>65mm) long Lateral Ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Stirrup Detailing Longitudinal Bars (dia=d) Stirrup 135° Hook   6d(>65mm) long COLUMN",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.0908607766032219,
+    "image_embedding_norm": 0.9958635568618774
+  },
+  {
+    "index": 93,
+    "page": 5,
+    "type": "image",
+    "text_preview": " The reinforcement detailing in beams should be provided as shown in the figure.  Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap leng...",
+    "full_text": " The reinforcement detailing in beams should be provided as shown in the figure.  Lap splices should not be provided within a joint. The laps may be provided in L/3 to L/4 region of beam.   Lap length should not be less than the development length. Not more than 50% of the cross-sectional area   of bars should be spliced at any section.  Place longitudinal bars carefully with adequate concrete cover of 25 mm.  The laps in longitudinal reinforcement of column shall be spliced in mid-half length and confined with ties   at 150 mm spacing. Not more than 50% cross-sectional area of bars shall be lapped at a section.  The detailing of reinforcement in beam-column joints at end span shall be as shown in the figure.  Provide cross-ties if parallel legs of lateral ties are spaced at a distance of more than 300 mm c/c. REINFORCEMENT DETAILING  The reinforcement detailing of stirrups should be provided as shown in the figure.  Ensure that stirrups are properly tied with binding wires. L D Stirrup Spacing Stirrup   Spacing Stirrup   Spacing No Lap Region RC Column No Lap Region   Stirrup Spacing d = Diameter of ties Longitudinal   Bar 135° hook   Cross-tie   6d(>65mm) long Lateral Ties RC Column Cross Tie and 135⁰ Hook in Lateral Ties Stirrup Detailing Longitudinal Bars (dia=d) Stirrup 135° Hook   6d(>65mm) long BEAM STIRRUPS",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08756547421216965,
+    "image_embedding_norm": 0.9961586594581604
+  },
+  {
+    "index": 94,
+    "page": 6,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column At Beam-Column Joint D At Roof Floor End Span RC Beam",
+    "full_text": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column At Beam-Column Joint D At Roof Floor End Span RC Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 95,
+    "page": 6,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Approx 60 times the bar   diameter Top   Reinforcement RC Beam Bottom RC Column  Reinforcement Longitudinal   Reinforcement Approx 60 times the bar diameter At Intermediate Flo...",
+    "full_text": "REINFORCEMENT DETAILING Approx 60 times the bar   diameter Top   Reinforcement RC Beam Bottom RC Column  Reinforcement Longitudinal   Reinforcement Approx 60 times the bar diameter At Intermediate Floor End Span h/4 D h/6   h/6 Lapping of   longitudinal   bars in middle   half of column   & not more   than 50% of   bars shall be   spliced at a   section Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm Spacing of ties in lap length   shall be smaller of D/2   or 150mm in 6 (max) Spacing of ties not   more than D/2 Kink by 1 Spacing of ties not   more than D/2 Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm h At Roof Floor End Span Top Reinforcement Approx 60 times the bar diameter Bottom Reinforcement   Bend Column   Reinforcement   into Beam Longitudinal   Reinforcement RC Column RC Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08517225831747055,
+    "image_embedding_norm": 0.9963662028312683
+  },
+  {
+    "index": 96,
+    "page": 6,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column Approx 60 times the bar   diameter Top   Reinforcement At Beam-Column Joint h/4 D h/4 h/6   h/6 Lapping of   longitudinal   bars in middle ...",
+    "full_text": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column Approx 60 times the bar   diameter Top   Reinforcement At Beam-Column Joint h/4 D h/4 h/6   h/6 Lapping of   longitudinal   bars in middle   half of column   & not more   than 50% of   bars shall be   spliced at a   section Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm Spacing of ties in lap length   shall be smaller of D/2   or 150mm in 6 (max) Spacing of ties not   more than D/2 Kink by 1 Spacing of ties not   more than D/2 Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm h At Roof Floor End Span Longitudinal   Reinforcement RC Column",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09041833877563477,
+    "image_embedding_norm": 0.9959036707878113
+  },
+  {
+    "index": 97,
+    "page": 6,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column Approx 60 times the bar   diameter Top   Reinforcement RC Beam Bottom RC Column  Reinforcement Longitudinal   Reinforcement Approx 60 times...",
+    "full_text": "REINFORCEMENT DETAILING Reinforcement Detailing in RC Column Approx 60 times the bar   diameter Top   Reinforcement RC Beam Bottom RC Column  Reinforcement Longitudinal   Reinforcement Approx 60 times the bar diameter At Intermediate Floor End Span At Beam-Column Joint h/4 h/6   h/6 Lapping of   longitudinal   bars in middle   half of column   & not more   than 50% of   bars shall be   spliced at a   section Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm Spacing of ties in lap length   shall be smaller of D/2   or 150mm in 6 (max) Spacing of ties not   more than D/2 Kink by 1 Spacing of ties not   more than D/2 Spacing of ties not more   than D/4, 6 xdiameter of   longitudinal bar or 100 mm h At Roof Floor End Span Top Reinforcement Approx 60 times the bar diameter Bottom Reinforcement   Bend Column   Reinforcement   into Beam Longitudinal   Reinforcement RC Column RC Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08731261640787125,
+    "image_embedding_norm": 0.9961809515953064
+  },
+  {
+    "index": 98,
+    "page": 7,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING  The reinforcement detailing in slabs shall be provided as shown in the figure below. SECTION B-B Edge   Beam No negative reinforcement 0.1 L 1 PLAN Bottom Distribution Bars I...",
+    "full_text": "REINFORCEMENT DETAILING  The reinforcement detailing in slabs shall be provided as shown in the figure below. SECTION B-B Edge   Beam No negative reinforcement 0.1 L 1 PLAN Bottom Distribution Bars Intermediate Beam reinforcement   over support SLAB",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 99,
+    "page": 7,
+    "type": "image",
+    "text_preview": "SECTION B-B Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 Bottom Main Bars Intermediate Beam L 4 L 3  L 1 SECTION A -A Top negative reinforcement over support 0.1 L 1 RC Slab Bot...",
+    "full_text": "SECTION B-B Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 Bottom Main Bars Intermediate Beam L 4 L 3  L 1 SECTION A -A Top negative reinforcement over support 0.1 L 1 RC Slab Bottom Main Bar Edge   Beam   Bottom PLAN L 4 L 3 0.3 L 3 Intermediate Beam Longer Direction (L 2 ) (L 2  > 2L 1 )   Top negative reinforcement   over support",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09916777163743973,
+    "image_embedding_norm": 0.9950706958770752
+  },
+  {
+    "index": 100,
+    "page": 7,
+    "type": "image",
+    "text_preview": " The reinforcement detailing in slabs shall be provided as shown in the figure below.  Cranks in slabs are not permitted due to poor performance in seismic shaking.  Generally, slab thickness shall...",
+    "full_text": " The reinforcement detailing in slabs shall be provided as shown in the figure below.  Cranks in slabs are not permitted due to poor performance in seismic shaking.  Generally, slab thickness shall be calculated as shorter spam/28 or 100 mm, whichever is higher.  The minimum cover to reinforcement shall be not less than 15 mm, nor less than the diameter of bar. SECTION B-B Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 RC Slab Bottom Main Bars Intermediate Beam L 4 0.3 L 3 L 3  L 1  SECTION A -A Top negative reinforcement over support 0.1 L 1 RC Slab Bottom Main Bar Edge   Beam   Bottom Distribution   Bars Intermediate Beam PLAN L 4 L 3 0.3 L 1 0.1 L 1 0.3 L 3 Shorter Direction (L 1   ) Bottom Distribution Bars Intermediate Beam Longer Direction (L 2 ) (L 2  > 2L 1 )   Top negative reinforcement   over support Edge   Beam (When ratio of longer span to shorter span of slab is greater than 2)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08544135838747025,
+    "image_embedding_norm": 0.9963430166244507
+  },
+  {
+    "index": 101,
+    "page": 7,
+    "type": "image",
+    "text_preview": " The reinforcement detailing in slabs shall be provided as shown in the figure below.  Cranks in slabs are not permitted due to poor performance in seismic shaking.  Generally, slab thickness shall...",
+    "full_text": " The reinforcement detailing in slabs shall be provided as shown in the figure below.  Cranks in slabs are not permitted due to poor performance in seismic shaking.  Generally, slab thickness shall be calculated as shorter spam/28 or 100 mm, whichever is higher.  The minimum cover to reinforcement shall be not less than 15 mm, nor less than the diameter of bar. One- Way Slab Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 RC Slab Bottom Intermediate Beam L 4 0.3 L 3 L 3  L 1  SECTION A -A Top negative reinforcement over support 0.1 L 1 RC Slab Top negative reinforcement over support 0.3 L 1 Bottom Main Bar Edge   Beam   Bottom Distribution   Bars Intermediate Beam L 3 0.3 L 1 0.1 L 1 0.3 L 3 Shorter Direction (L 1   ) Top negative reinforcement   over support   Bottom Main Bars   Edge Beam Bottom Distribution Bars Intermediate Beam (L 2  > 2L 1 )   Top negative reinforcement   over support Edge   Beam (When ratio of longer span to shorter span of slab is greater than 2)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08587241172790527,
+    "image_embedding_norm": 0.9963061809539795
+  },
+  {
+    "index": 102,
+    "page": 7,
+    "type": "image",
+    "text_preview": " The minimum cover to reinforcement shall be not less than 15 mm, nor less than the diameter of bar. One- Way Slab SECTION B-B Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 RC S...",
+    "full_text": " The minimum cover to reinforcement shall be not less than 15 mm, nor less than the diameter of bar. One- Way Slab SECTION B-B Edge   Beam No negative reinforcement Bottom Distribution   Bar L 2 RC Slab Bottom Main Bars Intermediate Beam L 4 0.3 L 3 L 3  L 1  SECTION A -A Top negative reinforcement over support 0.1 L 1 RC Slab Top negative reinforcement over support 0.3 L 1 Bottom Main Bar Edge   Beam   Bottom Distribution   Bars Intermediate Beam PLAN L 4 L 3 0.3 L 1 0.1 L 1 0.3 L 3 Shorter Direction (L 1   ) Top negative reinforcement   over support   Bottom Main Bars   Edge Beam Bottom Distribution Bars Intermediate Beam Longer Direction (L 2 ) (L 2  > 2L 1 )   Top negative reinforcement   over support Edge   Beam (When ratio of longer span to shorter span of slab is greater than 2) SLAB",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.0865178033709526,
+    "image_embedding_norm": 0.9962501525878906
+  },
+  {
+    "index": 103,
+    "page": 8,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Two - Way Slab Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement (When ratio of longer span to shorter span of slab is less than 2) Top negative over support reinfo...",
+    "full_text": "REINFORCEMENT DETAILING Two - Way Slab Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement (When ratio of longer span to shorter span of slab is less than 2) Top negative over support reinforcement over support Edge Beam Top Negative Reinforcement Over Support L 75 mm RC Cantilever Slab the  bar diameter RC Beam L/3 10 mm     bar   Bottom Reinforcement t -70mm 100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 104,
+    "page": 8,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Two - Way Slab (When ratio of longer span to shorter span of slab is less than 2) L 4 L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over ...",
+    "full_text": "REINFORCEMENT DETAILING Two - Way Slab (When ratio of longer span to shorter span of slab is less than 2) L 4 L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate Beam Longer Direction (L 2 ) (L 2  < 2L 1  ) PLAN Shorter Direction (L 1   ) 0.1 L 1 0.3 L 1 0.3 L 2        0.3 L 4    0.1 L 2 0.3 L 3 L 1   L 3 0.1 L 1 Distribution Bars at Top (Minimum 2 bars)   Top negative reinforcement over support Edge Beam Bottom Main Bar   Bottom   Distribution   Bars Intermediate   Beam RC Slab 0.3L 1   0.3L 3 L 2   L 4 0.3L 2   0.3L 4 SECTION D-D RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge   Beam   Bottom   Distribution Bar   Bottom Main Bars Distribution Bars at Top (Minimum 2 bars) 0.1 L 2 L/7   Minimum 75 mm RC Cantilever Slab Top Reinforcement Approx 60 times the  bar diameter RC Beam Distribution Reinforcement L/3 Rebar Chair RC Slab Top Reinforcement t -70mm  100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08643307536840439,
+    "image_embedding_norm": 0.9962576627731323
+  },
+  {
+    "index": 105,
+    "page": 8,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Two - Way Slab (When ratio of longer span to shorter span of slab is less than 2) L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over supp...",
+    "full_text": "REINFORCEMENT DETAILING Two - Way Slab (When ratio of longer span to shorter span of slab is less than 2) L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate Beam Shorter Direction (L 1   ) 0.1 L 1 0.3 L 1 0.3 L 2        0.3 L 4    0.1 L 2 0.3 L 3 SECTION C-C L 1   L 3 0.1 L 1 Distribution Bars at Top (Minimum 2 bars)   Top negative reinforcement over support Edge Beam Bottom Main Bar   Bottom   Distribution   Bars Intermediate   Beam RC Slab 0.3L 1   0.3L 3 0.3L 2   0.3L 4 RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge   Beam   Bottom   Distribution Bar   Bottom Distribution Bars at Top (Minimum 2 bars) 0.1 L 2 L/7   Minimum 75 mm RC Cantilever Slab Distribution Reinforcement RC Slab Top Reinforcement t -70mm  100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08703161776065826,
+    "image_embedding_norm": 0.9962053894996643
+  },
+  {
+    "index": 106,
+    "page": 8,
+    "type": "image",
+    "text_preview": "(When ratio of longer span to shorter span of slab is less than 2) L 4 L 3 Distribution Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative rein...",
+    "full_text": "(When ratio of longer span to shorter span of slab is less than 2) L 4 L 3 Distribution Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate Beam Longer Direction (L 2 ) (L 2  < 2L 1  ) PLAN Shorter Direction (L 1   ) 0.3 L 1 0.3 L 2        0.3 L 4    0.1 L 2 0.3 L 3 SECTION C-C L 1   L 3 0.1 L 1 (Minimum 2 bars)   Top negative reinforcement over support Edge Beam Bottom Main Bar   Bottom   Distribution   Bars Intermediate   Beam RC Slab 0.3L 1   0.3L 3 L 2   L 4 0.3L 2   0.3L 4 SECTION D-D RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge   Beam   Bottom   Distribution Bar   Bottom Main Bars Distribution Bars at Top (Minimum 2 bars) 0.1 L 2 L/7   Minimum 75 mm RC Cantilever Top Reinforcement Approx Distribution Reinforcement Rebar Chair RC Slab Top Reinforcement t -70mm  100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08425481617450714,
+    "image_embedding_norm": 0.9964442253112793
+  },
+  {
+    "index": 107,
+    "page": 8,
+    "type": "image",
+    "text_preview": "Two - Way Slab Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement L 4 L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over support Top negative reinforc...",
+    "full_text": "Two - Way Slab Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement L 4 L 3 Bottom Distribution Bars Edge Beam   Bottom Main Bars Top negative reinforcement over support Top negative reinforcement over support Edge Beam Top negative reinforcement over support Intermediate Beam Longer Direction (L 2 ) (L 2  < 2L 1  ) PLAN Shorter Direction (L 1   ) 0.1 L 1 0.3 L 1 0.3 L 3 Intermediate   Beam RC Slab L 2   L 4 SECTION D-D RC Slab Intermediate L L/7   Minimum 75 mm RC Cantilever Slab Top Reinforcement Approx 60 times the  bar diameter RC Beam Distribution Reinforcement L/3 Rebar Chair RC Slab Top Reinforcement 10 mm     bar   Bottom Reinforcement t -70mm  100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08516324311494827,
+    "image_embedding_norm": 0.9963670372962952
+  },
+  {
+    "index": 108,
+    "page": 8,
+    "type": "image",
+    "text_preview": "REINFORCEMENT DETAILING Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement L 4 L 3 Top negative reinforcement over support Top negative reinforcement over support Edge Beam Intermediate Bea...",
+    "full_text": "REINFORCEMENT DETAILING Cantilever Slab from Beam   Rebar Chair in Slab Reinforcement L 4 L 3 Top negative reinforcement over support Top negative reinforcement over support Edge Beam Intermediate Beam Longer Direction (L 2 ) (L 2  < 2L 1  ) PLAN 0.3 L 3 SECTION C-C L 1   L 3 0.1 L 1 Distribution Bars at Top (Minimum 2 bars)   Top negative reinforcement over support Edge Beam Bottom Intermediate   Beam RC Slab 0.3L 1   0.3L 3 L 2   L 4 0.3L 2   0.3L 4 SECTION D-D RC Slab Intermediate Beam Top Negative Reinforcement Over Support Edge   Beam   Bottom   Distribution Bar   Bottom Main Bars Distribution Bars at Top (Minimum 2 bars) 0.1 L 2 L L/7   Minimum 75 mm RC Cantilever Slab Top Reinforcement Approx 60 times the  bar diameter RC Beam Distribution Reinforcement L/3 Rebar Chair RC Slab Top Reinforcement 10 mm     bar   Bottom Reinforcement t -70mm  100mm  t",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08634428679943085,
+    "image_embedding_norm": 0.9962653517723083
+  },
+  {
+    "index": 109,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 110,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings s...",
+    "full_text": "Good Practice   Bad Practice Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09886974841356277,
+    "image_embedding_norm": 0.9951003789901733
+  },
+  {
+    "index": 111,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both    Walls should be continuous in elevation upto the    Length to width ratio of the plan should be less    Flemish bond is preferred as compared to english    Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.07854022085666656,
+    "image_embedding_norm": 0.9969107508659363
+  },
+  {
+    "index": 112,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08640806376934052,
+    "image_embedding_norm": 0.9962598085403442
+  },
+  {
+    "index": 113,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-les...",
+    "full_text": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english    Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08725415915250778,
+    "image_embedding_norm": 0.9961859583854675
+  },
+  {
+    "index": 114,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice   Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the fou...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice   Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08870290219783783,
+    "image_embedding_norm": 0.9960581660270691
+  },
+  {
+    "index": 115,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both the d...",
+    "full_text": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.0897517129778862,
+    "image_embedding_norm": 0.9959641098976135
+  },
+  {
+    "index": 116,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08970636874437332,
+    "image_embedding_norm": 0.9959682822227478
+  },
+  {
+    "index": 117,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08843609690666199,
+    "image_embedding_norm": 0.9960817694664001
+  },
+  {
+    "index": 118,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Prov...",
+    "full_text": "Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.    Flemish bond is preferred as compared to english    Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08703680336475372,
+    "image_embedding_norm": 0.9962049722671509
+  },
+  {
+    "index": 119,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Pr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08820229768753052,
+    "image_embedding_norm": 0.9961025714874268
+  },
+  {
+    "index": 120,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice   foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to engl...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice   foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09577526897192001,
+    "image_embedding_norm": 0.9954031109809875
+  },
+  {
+    "index": 121,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both    W...",
+    "full_text": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both    Walls should be continuous in elevation upto the foundation.   Plan Dimensions  Length to width ratio of the plan should be less than  4.   Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09172232449054718,
+    "image_embedding_norm": 0.9957846403121948
+  },
+  {
+    "index": 122,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetr...",
+    "full_text": "PLANNING ASPECTS Good Practice   Bad Practice Building Shape  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form regular shape.   Symmetrical Walls  Provide more-or-less symmetrical walls in both the directions of the plan.   Vertical Continuity  Walls should be continuous in elevation upto the    Length to width ratio of the plan should be less    Flemish bond is preferred as compared to english    Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08893077075481415,
+    "image_embedding_norm": 0.9960377216339111
+  },
+  {
+    "index": 123,
+    "page": 9,
+    "type": "image",
+    "text_preview": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both    W...",
+    "full_text": "Good Practice   Bad Practice  Shape should be regular.    Avoid L, U, Y etc. Shape buildings.    If unavoidable, give separation gap to form    Provide more-or-less symmetrical walls in both    Walls should be continuous in elevation upto the    Length to width ratio of the plan should be less   Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08584830909967422,
+    "image_embedding_norm": 0.9963082075119019
+  },
+  {
+    "index": 124,
+    "page": 9,
+    "type": "image",
+    "text_preview": "PLANNING ASPECTS      Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be...",
+    "full_text": "PLANNING ASPECTS      Masonry Bond  Flemish bond is preferred as compared to english or any other bond.   Wall Opening Proportion  Restrict upto 40% of wall surface for openings.  Openings shall be preferably be in mid span, away from corners.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08750349283218384,
+    "image_embedding_norm": 0.9961641430854797
+  },
+  {
+    "index": 125,
+    "page": 10,
+    "type": "image",
+    "text_preview": "WHY CONFINED MASONRY Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally available Economical as compared to reinforced concrete frame buildings Typical Confined Masonry Building",
+    "full_text": "WHY CONFINED MASONRY Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally available Economical as compared to reinforced concrete frame buildings Typical Confined Masonry Building",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 126,
+    "page": 10,
+    "type": "image",
+    "text_preview": "Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally available construction mater...",
+    "full_text": "Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Typical Confined Masonry Building",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09205573052167892,
+    "image_embedding_norm": 0.9957538843154907
+  },
+  {
+    "index": 127,
+    "page": 10,
+    "type": "image",
+    "text_preview": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Can be built   using locally available construction materials Why Conf...",
+    "full_text": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance,   if constructed properly",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08780986815690994,
+    "image_embedding_norm": 0.9961372017860413
+  },
+  {
+    "index": 128,
+    "page": 10,
+    "type": "image",
+    "text_preview": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical a...",
+    "full_text": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance,   if constructed properly",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08596030622720718,
+    "image_embedding_norm": 0.9962984919548035
+  },
+  {
+    "index": 129,
+    "page": 10,
+    "type": "image",
+    "text_preview": "Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construction materials Why Con...",
+    "full_text": "Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance,   if constructed properly Typical Confined Masonry Building",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08629611134529114,
+    "image_embedding_norm": 0.9962694644927979
+  },
+  {
+    "index": 130,
+    "page": 10,
+    "type": "image",
+    "text_preview": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally availab...",
+    "full_text": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Plinth Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance,   if constructed properly",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08847910910844803,
+    "image_embedding_norm": 0.9960780143737793
+  },
+  {
+    "index": 131,
+    "page": 10,
+    "type": "image",
+    "text_preview": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construct...",
+    "full_text": "WHY CONFINED MASONRY Slab Spandrel Masonry Bond Beam Wall Pier Masonry Tie Column Opening Sill Band Plinth Beam Footing Roof Lvl. Lintel Lvl. Sill Lvl. Can be built   using locally available construction materials Why Confined   Masonry Economical as compared to reinforced concrete frame buildings Does not require any special construction skills Excellent seismic performance,   if constructed properly",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09179159253835678,
+    "image_embedding_norm": 0.9957782030105591
+  },
+  {
+    "index": 132,
+    "page": 11,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 133,
+    "page": 11,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Excavate upto adequate foundation depth/width along the walls of the   building and lay 100 mm thick PCC as level...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Excavate upto adequate foundation depth/width along the walls of the   building and lay 100 mm thick PCC as levelling course.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869828075170517,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 134,
+    "page": 11,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 1 PCC Ground Lvl. Excavate upto adequate foundation depth/width along the walls of the   building and lay 100 mm ...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 1 PCC Ground Lvl. Excavate upto adequate foundation depth/width along the walls of the   building and lay 100 mm thick PCC as levelling course.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09153060615062714,
+    "image_embedding_norm": 0.9958022832870483
+  },
+  {
+    "index": 135,
+    "page": 12,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 136,
+    "page": 12,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 2 Reinforcement   for Tie-Column Ground Lvl. PCC   Footing Cast footing beneath the walls and erect tie-columns r...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 2 Reinforcement   for Tie-Column Ground Lvl. PCC   Footing Cast footing beneath the walls and erect tie-columns reinforcement as per   layout. Provide tie-columns at every corner of room and wall intersection. Limit   maximum spacing of tie-column to 4.2 m. Provide reinforcement cage for tie-   columns above the roof level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.0948864072561264,
+    "image_embedding_norm": 0.9954881072044373
+  },
+  {
+    "index": 137,
+    "page": 13,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 400mm This will ensure better bond between RC Tie-column and masonry. < 400mm Masonry",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 400mm This will ensure better bond between RC Tie-column and masonry. < 400mm Masonry",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 138,
+    "page": 13,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall e...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm This will ensure better bond between RC Tie-column and masonry. 25mm 8    Connectors or Dowels  < 400mm",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869828075170517,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 139,
+    "page": 13,
+    "type": "image",
+    "text_preview": "3 Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm This will ensure bette...",
+    "full_text": "3 Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm This will ensure better bond between RC Tie-column and masonry. 25mm 8    Connectors or Dowels  < 400mm Reinforcement   for Tie-Column Masonry Foundation Wall PCC   Footing Plinth Lvl.   Ground Lvl.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08952216058969498,
+    "image_embedding_norm": 0.9959849119186401
+  },
+  {
+    "index": 140,
+    "page": 13,
+    "type": "image",
+    "text_preview": "Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm This will ensure better ...",
+    "full_text": "Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm This will ensure better bond between RC Tie-column and masonry. 25mm 8    Connectors or Dowels  < 400mm Reinforcement   for Tie-Column Masonry Foundation Wall",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08505639433860779,
+    "image_embedding_norm": 0.9963762164115906
+  },
+  {
+    "index": 141,
+    "page": 13,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 3 Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 3 Construct plinth masonry wall upto the plinth level leaving apart the column   spaces with 25 mm groove at wall ends. Alternatively, follow arrangement as   given below. 400mm 25mm 8    Connectors < 400mm Reinforcement   for Tie-Column Masonry Foundation Wall PCC   Footing Plinth Lvl.   Ground Lvl.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09539557993412018,
+    "image_embedding_norm": 0.9954395294189453
+  },
+  {
+    "index": 142,
+    "page": 14,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Upon constructing maximum 1.2 m wall height, provide formwork for tie-   columns upto the plinth level.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Upon constructing maximum 1.2 m wall height, provide formwork for tie-   columns upto the plinth level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 143,
+    "page": 14,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 4 Reinforcement   for Tie-Column Masonry Foundation Wall PCC Footing Formwork Plinth Lvl. Ground Lvl. Upon constr...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 4 Reinforcement   for Tie-Column Masonry Foundation Wall PCC Footing Formwork Plinth Lvl. Ground Lvl. Upon constructing maximum 1.2 m wall height, provide formwork for tie-   columns upto the plinth level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09649946540594101,
+    "image_embedding_norm": 0.9953329563140869
+  },
+  {
+    "index": 144,
+    "page": 15,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill w...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill with maximum 15% moisture content in a layer   of 300mm adequately compacted, upto plinth level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 145,
+    "page": 15,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill w...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill with maximum 15% moisture content in a layer   of 300mm adequately compacted, upto plinth level. PCC Footing Additional   Reinforcement   around opening",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869827330112457,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 146,
+    "page": 15,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 5 Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 5 Cast tie-columns from foundation level upto the plinth level along with the   plinth beam, carry out earth fill with maximum 15% moisture content in a layer   of 300mm adequately compacted, upto plinth level. Reinforcement   for Tie-Column Masonry Foundation PCC Footing Plinth Beam Plinth Lvl . Ground Lvl .  Additional   Reinforcement   around opening",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09485317766666412,
+    "image_embedding_norm": 0.9954913258552551
+  },
+  {
+    "index": 147,
+    "page": 16,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 148,
+    "page": 16,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 6 Reinforcement   for Tie-Column Sill Masonry Wall Sill Lvl. Plinth Lvl. Ground Lvl. Plinth   Masonry   Additiona...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 6 Reinforcement   for Tie-Column Sill Masonry Wall Sill Lvl. Plinth Lvl. Ground Lvl. Plinth   Masonry   Additional   Reinforcement   around Opening Plinth Beam Construct sill masonry wall above plinth level, leaving openings for doors, as   per architectural layout. Additional reinforcement detail, as shown in figure   shall be provided around such openings.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08956830948591232,
+    "image_embedding_norm": 0.9959806203842163
+  },
+  {
+    "index": 149,
+    "page": 17,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Prepare formwork for tie-columns upto the sill level, as shown.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Prepare formwork for tie-columns upto the sill level, as shown.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 150,
+    "page": 17,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Additional   Reinforcement   around Opening   Formwork Plinth   Masonry Plinth Bea...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Additional   Reinforcement   around Opening   Formwork Plinth   Masonry Plinth Beam Prepare formwork for tie-columns upto the sill level, as shown.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869827330112457,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 151,
+    "page": 17,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 7 Reinforcement for   Tie-Column Masonry Wall Additional   Reinforcement   around Opening   Formwork Plinth   Mas...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 7 Reinforcement for   Tie-Column Masonry Wall Additional   Reinforcement   around Opening   Formwork Plinth   Masonry Sill Lvl. Plinth Lvl. Ground Lvl .  Plinth Beam Prepare formwork for tie-columns upto the sill level, as shown.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09140518307685852,
+    "image_embedding_norm": 0.9958138465881348
+  },
+  {
+    "index": 152,
+    "page": 18,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building)",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 153,
+    "page": 18,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for Tie-Column Sill Band Additional   Reinforcement   around Opening Tie-Column Plinth Lvl .    Gro...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for Tie-Column Sill Band Additional   Reinforcement   around Opening Tie-Column Plinth Lvl .    Ground Lvl.  Plinth Beam Sill Masonry Plinth   Masonry",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08789114654064178,
+    "image_embedding_norm": 0.996130108833313
+  },
+  {
+    "index": 154,
+    "page": 18,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for 8 Tie-Column Sill Band Additional   Reinforcement   around Opening Masonry Wall Tie-Column  Sil...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for 8 Tie-Column Sill Band Additional   Reinforcement   around Opening Masonry Wall Tie-Column  Sill Lvl .  Plinth Lvl .    Ground Lvl.  Plinth Beam Sill Masonry Plinth   Masonry Cast tie-columns from plinth level upto the sill   level. Also cast bond beam at sill level, if any.   Provide vertical notch in green concrete of tie-   column, as shown.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08914422988891602,
+    "image_embedding_norm": 0.9960187673568726
+  },
+  {
+    "index": 155,
+    "page": 18,
+    "type": "image",
+    "text_preview": "Reinforcement for Tie-Column Sill Band Additional   Reinforcement   around Opening Tie-Column Plinth Beam Plinth   Masonry Cast tie-columns from plinth level upto the sill   level. Also cast bond beam...",
+    "full_text": "Reinforcement for Tie-Column Sill Band Additional   Reinforcement   around Opening Tie-Column Plinth Beam Plinth   Masonry Cast tie-columns from plinth level upto the sill   level. Also cast bond beam at sill level, if any.   Provide vertical notch in green concrete of tie-   column, as shown.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08146728575229645,
+    "image_embedding_norm": 0.996675968170166
+  },
+  {
+    "index": 156,
+    "page": 19,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Construct wall-pier masonry above the sill level upto 1.2 m.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Construct wall-pier masonry above the sill level upto 1.2 m.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 157,
+    "page": 19,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Plinth   Masonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for   Tie-Column Addi...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Plinth   Masonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Tie- Column Plinth Beam Sill Masonry Sill Band",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869827330112457,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 158,
+    "page": 19,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 9 Plinth   Masonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for   Tie-Column Ad...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 9 Plinth   Masonry Construct wall-pier masonry above the sill level upto 1.2 m. Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Tie- Column  1.2 m Sill Lvl.  Plinth Lvl. Ground Lvl.  Plinth Beam Sill Masonry Sill Band",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08930894732475281,
+    "image_embedding_norm": 0.9960039854049683
+  },
+  {
+    "index": 159,
+    "page": 20,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-column above sill level and cast the concrete. Do not   forget to provide notch in tie-c...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-column above sill level and cast the concrete. Do not   forget to provide notch in tie-column concrete in green state.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 160,
+    "page": 20,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 10 Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Plinth   Masonry  Formwork 1.2 m Sill Lvl.  Plinth L...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 10 Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Plinth   Masonry  Formwork 1.2 m Sill Lvl.  Plinth Lvl. Ground Lvl. Sill Band Additional   Reinforcement   around Opening Provide formwork for tie-column above sill level and cast the concrete. Do not   forget to provide notch in tie-column concrete in green state.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09184980392456055,
+    "image_embedding_norm": 0.9957728981971741
+  },
+  {
+    "index": 161,
+    "page": 21,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Further construct masonry walls upto the lintel level.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Further construct masonry walls upto the lintel level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 162,
+    "page": 21,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Plinth   Masonry Tie-Column Sill Band Further construct...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Plinth   Masonry Tie-Column Sill Band Further construct masonry walls upto the lintel level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869828075170517,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 163,
+    "page": 21,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 11 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Sill Masonry   Plinth Beam Plinth  ...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 11 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Sill Masonry   Plinth Beam Plinth   Masonry  Tie-Column  Lintel Lvl.  Sill Lvl.  Plinth Lvl. Ground Lvl. Sill Band Further construct masonry walls upto the lintel level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08977014571428299,
+    "image_embedding_norm": 0.9959625005722046
+  },
+  {
+    "index": 164,
+    "page": 22,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns upto the lintel level. Cast concrete in tie-   column.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns upto the lintel level. Cast concrete in tie-   column.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 165,
+    "page": 22,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 12 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Masonry Wall Sill Masonry   Plinth ...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 12 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Masonry Wall Sill Masonry   Plinth Beam Sill Band   Plinth   Masonry Formwork  Lintel Lvl.  Sill Lvl.  Plinth Lvl. Ground Lvl. Provide formwork for tie-columns upto the lintel level. Cast concrete in tie-   column.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09159467369318008,
+    "image_embedding_norm": 0.9957963824272156
+  },
+  {
+    "index": 166,
+    "page": 23,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Bond Beam",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Bond Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 167,
+    "page": 23,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Cast bond-beam on walls at one level. Ensure...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Cast bond-beam on walls at one level. Ensure the   reinforcement of bond beam passes through tie-   column reinforcement. Provide additional   reinforcement in bond-beam over openings.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869828075170517,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 168,
+    "page": 23,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Sill Band   Plinth Masonry Plinth Lvl. Groun...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Sill Band   Plinth Masonry Plinth Lvl. Ground Lvl.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08823540061712265,
+    "image_embedding_norm": 0.996099591255188
+  },
+  {
+    "index": 169,
+    "page": 23,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 13 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Masonry Wall Sill Masonry   Plinth ...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 13 Reinforcement for   Tie-Column Additional   Reinforcement   around Opening Masonry Wall Sill Masonry   Plinth Beam Tie-Column Sill Band   Plinth Masonry Sill Lvl. Plinth Lvl. Ground Lvl. Lintel Lvl. Bond Beam Cast bond-beam on walls at one level. Ensure the   reinforcement of bond beam passes through tie-   column reinforcement. Provide additional   reinforcement in bond-beam over openings.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09164062142372131,
+    "image_embedding_norm": 0.9957920908927917
+  },
+  {
+    "index": 170,
+    "page": 23,
+    "type": "image",
+    "text_preview": "Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Sill Band   Plinth Masonry Bond Beam Cast bond-beam on walls at one level. Ensure the   reinforcement of bond beam passes through t...",
+    "full_text": "Reinforcement for   Tie-Column Sill Masonry   Plinth Beam Tie-Column Sill Band   Plinth Masonry Bond Beam Cast bond-beam on walls at one level. Ensure the   reinforcement of bond beam passes through tie-   column reinforcement. Provide additional   reinforcement in bond-beam over openings.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08158623427152634,
+    "image_embedding_norm": 0.9966661930084229
+  },
+  {
+    "index": 171,
+    "page": 24,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Bond Beam Construct spandrel masonry walls upto the slab level.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Bond Beam Construct spandrel masonry walls upto the slab level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 172,
+    "page": 24,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column   Spandrel   Masonry Tie-Column Plinth   Masonry Sill Lvl. Plinth Lvl.      Ground...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column   Spandrel   Masonry Tie-Column Plinth   Masonry Sill Lvl. Plinth Lvl.      Ground Lvl.  Plinth Beam Sill Masonry Lintel Lvl. Sill Band Confinement around   Opening 14 Roof Lvl. Bond Beam Construct spandrel masonry walls upto the slab level.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09048709273338318,
+    "image_embedding_norm": 0.9958975315093994
+  },
+  {
+    "index": 173,
+    "page": 25,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the ti...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the tie-column longitudinal reinforcement into   slab, if tie-columns are to be terminated .",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 174,
+    "page": 25,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the ti...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the tie-column longitudinal reinforcement into   slab, if tie-columns are to be terminated . Plinth Beam Sill Band Confinement around   Opening Sill Masonry Formwork Plinth   Masonry",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869826585054398,
+    "image_embedding_norm": 0.9951173663139343
+  },
+  {
+    "index": 175,
+    "page": 25,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 15 Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 15 Provide formwork for tie-columns between bond-beam to slab level and   cast   concrete in tie-column. Bend the tie-column longitudinal reinforcement into   slab, if tie-columns are to be terminated . Plinth Beam Sill Band Confinement around   Opening Sill Masonry Sill Lvl. Plinth Lvl. Ground Lvl. Formwork Roof Lvl.  Lintel Lvl. Spandrel   Masonry Plinth   Masonry Bond Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09274740517139435,
+    "image_embedding_norm": 0.9956896901130676
+  },
+  {
+    "index": 176,
+    "page": 26,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Also cast confinement around openings upto the slab level. Bend the   longitudinal reinforcement of tie-columns i...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Also cast confinement around openings upto the slab level. Bend the   longitudinal reinforcement of tie-columns into the roof slab.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 177,
+    "page": 26,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column   Spandrel   Masonry Sill Masonry   Plinth Beam Tie-Column Plinth   Masonry Sill L...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Reinforcement for   Tie-Column   Spandrel   Masonry Sill Masonry   Plinth Beam Tie-Column Plinth   Masonry Sill Lvl.  Plinth Lvl.      Ground Lvl. Lintel Lvl. 16 Roof Lvl. Sill Band Confinement around   Opening Bond Beam Also cast confinement around openings upto the slab level. Bend the   longitudinal reinforcement of tie-columns into the roof slab.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09039510786533356,
+    "image_embedding_norm": 0.9959060549736023
+  },
+  {
+    "index": 178,
+    "page": 27,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast RC slab as roof or floor. Note due to RC slab resting over spandrel masonry,   no bond beam is required.",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Cast RC slab as roof or floor. Note due to RC slab resting over spandrel masonry,   no bond beam is required.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 179,
+    "page": 27,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Sill Masonry   Plinth Beam Plinth   Masonry Tie-Column Confinement around   Opening Sill Band Bond Beam Cast RC s...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) Sill Masonry   Plinth Beam Plinth   Masonry Tie-Column Confinement around   Opening Sill Band Bond Beam Cast RC slab as roof or floor. Note due to RC slab resting over spandrel masonry,   no bond beam is required.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869826585054398,
+    "image_embedding_norm": 0.9951173663139343
+  },
+  {
+    "index": 180,
+    "page": 27,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 17 Slab   Spandrel   Masonry Sill Masonry   Plinth Beam Plinth   Masonry Lintel Lvl.  Tie-Column Sill Lvl.  Plint...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 17 Slab   Spandrel   Masonry Sill Masonry   Plinth Beam Plinth   Masonry Lintel Lvl.  Tie-Column Sill Lvl.  Plinth Lvl. Confinement around   Opening Roof Lvl. Sill Band Bond Beam Cast RC slab as roof or floor. Note due to RC slab resting over spandrel masonry,   no bond beam is required.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09027374535799026,
+    "image_embedding_norm": 0.9959169030189514
+  },
+  {
+    "index": 181,
+    "page": 28,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable   end and spandrel masonry, bon...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable   end and spandrel masonry, bond beam at roof level is to be provided.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 182,
+    "page": 28,
+    "type": "image",
+    "text_preview": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 18 In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable   end and spandrel masonry, ...",
+    "full_text": "CONSTRUCTION METHODOLOGY (Cost Effective, Seismic Resistant Confined Masonry Building) 18 In case of pitched/heaped roof, there will not be RC slab, hence to embrace gable   end and spandrel masonry, bond beam at roof level is to be provided. Heaped Roof Spandrel   Masonry Sill Masonry Tie-Column Plinth   Masonry Sill Lvl.  Plinth Lvl. Ground Lvl. Lintel Lvl. Confinement around   Opening Roof Lvl. Sill Band Bond Beam Plinth Beam",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09001590311527252,
+    "image_embedding_norm": 0.9959403276443481
+  },
+  {
+    "index": 183,
+    "page": 29,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS MASONRY WORK",
+    "full_text": "QUALITY ASSURANCE CHECKS MASONRY WORK",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 184,
+    "page": 29,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS Remarks Block work done in layers not exceeding 1.2 m. Unwanted particles are removed. Masonry date marked after end of day’s work (for 7 days curing).",
+    "full_text": "QUALITY ASSURANCE CHECKS Remarks Block work done in layers not exceeding 1.2 m. Unwanted particles are removed. Masonry date marked after end of day’s work (for 7 days curing).",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869826585054398,
+    "image_embedding_norm": 0.9951173663139343
+  },
+  {
+    "index": 185,
+    "page": 30,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS PLASTER",
+    "full_text": "QUALITY ASSURANCE CHECKS PLASTER",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 186,
+    "page": 31,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS ROOFING WORK",
+    "full_text": "QUALITY ASSURANCE CHECKS ROOFING WORK",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 187,
+    "page": 31,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS Remarks The finished surface is cured at least for 7 days.",
+    "full_text": "QUALITY ASSURANCE CHECKS Remarks The finished surface is cured at least for 7 days.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869826585054398,
+    "image_embedding_norm": 0.9951173663139343
+  },
+  {
+    "index": 188,
+    "page": 32,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS FLOORING",
+    "full_text": "QUALITY ASSURANCE CHECKS FLOORING",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 189,
+    "page": 33,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS WATER PROOFING",
+    "full_text": "QUALITY ASSURANCE CHECKS WATER PROOFING",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 190,
+    "page": 33,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS Remarks Check, if all the pipe periphery are sealed with mortar.   Check the result of hydro test and ensure that the record of   hydro test are being maintained in proper for...",
+    "full_text": "QUALITY ASSURANCE CHECKS Remarks Check, if all the pipe periphery are sealed with mortar.   Check the result of hydro test and ensure that the record of   hydro test are being maintained in proper format. Ensure that the filling in sunken portion is carried out very   carefully.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869827330112457,
+    "image_embedding_norm": 0.9951174259185791
+  },
+  {
+    "index": 191,
+    "page": 34,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS PAINTING WORK 1",
+    "full_text": "QUALITY ASSURANCE CHECKS PAINTING WORK 1",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 192,
+    "page": 35,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS WOOD WORK",
+    "full_text": "QUALITY ASSURANCE CHECKS WOOD WORK",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423417061567307,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 193,
+    "page": 35,
+    "type": "image",
+    "text_preview": "QUALITY ASSURANCE CHECKS Remarks",
+    "full_text": "QUALITY ASSURANCE CHECKS Remarks",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.09869826585054398,
+    "image_embedding_norm": 0.9951173663139343
+  },
+  {
+    "index": 194,
+    "page": 36,
+    "type": "image",
+    "text_preview": "COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement....",
+    "full_text": "COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in.",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08423416316509247,
+    "image_embedding_norm": 0.9964460134506226
+  },
+  {
+    "index": 195,
+    "page": 36,
+    "type": "image",
+    "text_preview": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India  For details co...",
+    "full_text": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India  For details contact:   Director   CSIR- Central Building Research Institute   Roorkee - 247667   Ph.  : +91-1332-272243 Fax  : +91-1332-272272, 272543",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.10148996859788895,
+    "image_embedding_norm": 0.9948365688323975
+  },
+  {
+    "index": 196,
+    "page": 36,
+    "type": "image",
+    "text_preview": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 201...",
+    "full_text": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in.  For details contact:   Director   CSIR- Central Building Research Institute   Roorkee - 247667   Ph.  : +91-1332-272243 Fax  : +91-1332-272272, 272543 E-mail : director@cbri.res.in   Website : http://www.cbri.res.in",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08697722852230072,
+    "image_embedding_norm": 0.9962102174758911
+  },
+  {
+    "index": 197,
+    "page": 36,
+    "type": "image",
+    "text_preview": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 201...",
+    "full_text": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in.  For details contact:   Director   CSIR- Central Building Research Institute   Roorkee - 247667   Ph.  : +91-1332-272243 Fax  : +91-1332-272272, 272543 E-mail : director@cbri.res.in   Website : http://www.cbri.res.in",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08697722852230072,
+    "image_embedding_norm": 0.9962102174758911
+  },
+  {
+    "index": 198,
+    "page": 36,
+    "type": "image",
+    "text_preview": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 201...",
+    "full_text": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in.  For details contact:   Director   CSIR- Central Building Research Institute   Roorkee - 247667   Ph.  : +91-1332-272243 Fax  : +91-1332-272272, 272543 E-mail : director@cbri.res.in   Website : http://www.cbri.res.in",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08697722852230072,
+    "image_embedding_norm": 0.9962102174758911
+  },
+  {
+    "index": 199,
+    "page": 36,
+    "type": "image",
+    "text_preview": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 201...",
+    "full_text": "Authored by:   Dr. Ajay Chourasia   Mr. Shubham Singhal Technical Support:   Mr. Sugam Kumar   Mr.  Jalaj Parashar   CSIR- Central Building Research Institute   Roorkee - 247667, India COPYRIGHT © 2017 CSIR-Central Building Research Institute, Roorkee This release is a property of CSIR- CBRI, Roorkee. It may be reproduced without changing its contents and with due   acknowledgement. Suggestions/ commentsforfurtherimprovementsmaybesentto: ajayc@cbri.res.in.  For details contact:   Director   CSIR- Central Building Research Institute   Roorkee - 247667   Ph.  : +91-1332-272243 Fax  : +91-1332-272272, 272543 E-mail : director@cbri.res.in   Website : http://www.cbri.res.in",
+    "confidence": 0.0,
+    "embedding_shape": [
+      896
+    ],
+    "text_embedding_norm": 0.08697722852230072,
+    "image_embedding_norm": 0.9962102174758911
+  }
+]
